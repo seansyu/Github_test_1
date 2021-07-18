@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\bin\Github_test_1.dll.config
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\bin\Github_test_1.dll
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\bin\Github_test_1.pdb
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\obj\Debug\Github_test_1.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\obj\Debug\Github_test_1.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\obj\Debug\Github_test_1.dll
+C:\Users\drago\source\repos\Github_test_1\Github_test_1\obj\Debug\Github_test_1.pdb
