@@ -12,10 +12,6 @@
         <div>
             <div>hello</div>
             <div>Sean</div>
-            <div>John</div>
-            <div>John</div>
-            <div>John</div>
-            <div>John</div>
         </div>
     </form>
 </body>
